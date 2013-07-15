@@ -1,4 +1,3 @@
-umd-wrapper
-===========
+# umd-wrapper
 
 Simple UMD wrapper for templates
